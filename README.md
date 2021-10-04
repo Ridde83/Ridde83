@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 I´ve made my first CryptoCurrency Project just for fun. If anyone would like to help for example to update the wallet in Dinarcoin feel free to do that.
+I´m just a beginner i don´t have much knowledge about coding. 
 
 For the moment these are the things i would like to make in my Dinarcoin project: 
 1. To update the Wallet Core to the latset version.
