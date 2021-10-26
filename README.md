@@ -12,7 +12,7 @@ For the moment these are the things i would like to make in my Dinarcoin project
 2. To have Qrcode in the wallet.
 3. To have paper wallet in the wallet.
 4. To make the wallet work on Windows and Mac.
-5. To have a Block explorer.
+5. To make DinarcoinAPP wallet for IOS and Android.
 If anyone has more ideas, feel free to code on my repository in Dinarcoin, i will really appreciate it.
 
 <!---
